@@ -1,0 +1,10 @@
+name: DirtLottery
+main: me.wPlachno.DirtLottery.DirtLottery
+version: 0.0.1
+description:
+    Turns the given token ID block into a token. Dropping the tokens in water will change it to a prize...
+commands:
+    DirtLottery:
+        description: This is the DirtLottery description command.
+        usage: |
+             /<command>
